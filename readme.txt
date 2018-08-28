@@ -1,0 +1,1 @@
+Please see the MultiMerch documentation at http://multimerch.com/documentation/.
