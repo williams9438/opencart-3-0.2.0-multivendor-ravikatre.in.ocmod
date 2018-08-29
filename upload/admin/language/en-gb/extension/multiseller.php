@@ -568,4 +568,5 @@ $_['ms_payment_royalty_payout'] = 'Royalty payout to %s at %s';
 $_['ms_payment_generic'] = 'Payment #%s at %s';
 $_['ms_payment_completed'] = 'Payment completed';
 
+$_['heading_title'] = '<b>[MultiMerch] Digital Marketplace</b>';
 ?>
